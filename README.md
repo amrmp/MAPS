@@ -4,9 +4,17 @@ Malware Analysis and Profiling on Smartphones (MAPS) Dataset
 
 # What is MAPS?
 
-MAPS dataset is for the research community that provides a very in-depth and detailed deep analysis of applications for 
+MAPS dataset is for the research community that provides a very in-depth and detailed deep analysis of Android applications for 
 extracting an enhanced set of features. The MAPS dataset relies on a diverse dataset collected from different repositories, 
 containing more than 153000 applications (>2TB in size), and outputs more than 40000 features for analysis and training of deep neural network models.
+
+# Dataset
+
+The dataset (header included) is divided into multiple 20 MiB files (i.e., benign and malware), which require to be combined via the following command.
+
+```bash
+
+cat Benign_wheader.?? > Benign_wheader.tar.gz
 
 # Acknowledgment
 
