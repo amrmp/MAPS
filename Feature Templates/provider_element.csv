@@ -1,0 +1,7 @@
+attribute,d-value
+android:enabled,1
+android:directBootAware,0
+android:exported,0
+android:grantUriPermissions,0
+android:multiprocess,0
+android:syncable,0

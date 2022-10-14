@@ -1,0 +1,7 @@
+attribute,d-value
+android:resizeable,1
+android:smallScreens,1
+android:normalScreens,1
+android:anyDensity,1
+android:largeScreens,0
+android:xlargeScreens,0

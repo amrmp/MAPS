@@ -1,0 +1,4 @@
+attribute,d-value
+android:directBootAware,0
+android:enabled,1
+android:exported,0
